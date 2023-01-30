@@ -73,6 +73,8 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:dotnet_5`
 * [`dotnet6.0`](/dotnet/6)
   * `ghcr.io/parkervcp/yolks:dotnet_6`
+* [`dotnet7.0`](/dotnet/7)
+  * `ghcr.io/parkervcp/yolks:dotnet_7`
 
 ### [Erlang](/erlang)
 
@@ -215,6 +217,14 @@ is tagged correctly.
   * `ghcr.io/parkervcp/yolks:rust_1.60`
 * ['rust latest'](/rust/latest)
   * `ghcr.io/parkervcp/yolks:rust_latest`
+
+### [SteamCMD](/steamcmd)
+* [`SteamCMD Debian lastest`](/steamcmd/debian)
+  * `ghcr.io/parkervcp/steamcmd:debian`
+* [`SteamCMD Debian Dotnet`](/steamcmd/dotnet)
+  * `ghcr.io/parkervcp/steamcmd:dotnet`
+* [`SteamCMD Ubuntu latest LTS`](/steamcmd/ubuntu)
+  * `ghcr.io/parkervcp/steamcmd:ubuntu`
 
 ### [Voice](/voice)
 * [`Mumble`](/voice/mumble)
